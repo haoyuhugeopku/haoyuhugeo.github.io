@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haoyu Hu (胡昊宇), CUHK (香港中文大学)"
+title: "Personal Site"
 author_profile: true
 redirect_from: 
   - /about/
