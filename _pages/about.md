@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+I am a research associate at Department of Geography and Resource Management, [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/). I obtained my PhD degree from [Peking University](https://www.pku.edu.cn/) in September 2023, under the supervision of Prof. Pengjun Zhao. My research interests include big data geocomputation, transport geography and sustainable regional development.
