@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Haoyu Hu (胡昊宇), CUHK (香港中文大学)"
 author_profile: true
 redirect_from: 
   - /about/
